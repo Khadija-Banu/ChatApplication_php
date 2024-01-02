@@ -1,0 +1,1 @@
+This is a Real time Chat Application with core PHP. This project are a lot of features like multiple user log in, registraion, logout, add friend, search friend , change profile,  forgot password and so on.
